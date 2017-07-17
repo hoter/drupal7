@@ -1,0 +1,6 @@
+name = Node view permissions
+description = Enables permissions "View own content" and "View any content" for each content type.
+package = Access control
+configure = admin/config/content/node-view-permissions
+
+core = 7.x
